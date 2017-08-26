@@ -70,6 +70,8 @@
     </AndroidResource>
     <AndroidResource Include="Resources\values\Strings.xml" />
     <AndroidResource Include="Resources\drawable\marker.png" />
+    <AndroidResource Include="Resources\drawable\splash.jpg" />
+    <AndroidResource Include="Resources\drawable\appICON.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />
